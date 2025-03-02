@@ -4,7 +4,7 @@ import "fmt"
 
 func Bubble_sort(unsorted []int) bool {
 
-	fmt.Printf("%p", &unsorted)
+	fmt.Printf("sortme:%p\n", &unsorted)
 
 	for pos := 0; pos < len(unsorted); pos++ {
 		for subpos := pos; subpos < len(unsorted); subpos++ {
