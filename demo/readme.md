@@ -23,4 +23,5 @@ gvm use 1.22.6
 
 ```
 export GOROOT="/Users/skern/.gvm/versions/go1.22.6.darwin.arm64"
-export ```PATH="/Users/skern/.gvm/versions/go1.22.6.darwin.arm64/bin:$PATH"
+export PATH="/Users/skern/.gvm/versions/go1.22.6.darwin.arm64/bin:$PATH"
+```
